@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/hepta-site/static/css/main.aa77da42.chunk.css",
+    "main.js": "/hepta-site/static/js/main.8a54fb53.chunk.js",
+    "main.js.map": "/hepta-site/static/js/main.8a54fb53.chunk.js.map",
+    "runtime~main.js": "/hepta-site/static/js/runtime~main.b0fc1e8a.js",
+    "runtime~main.js.map": "/hepta-site/static/js/runtime~main.b0fc1e8a.js.map",
+    "static/js/2.376bff23.chunk.js": "/hepta-site/static/js/2.376bff23.chunk.js",
+    "static/js/2.376bff23.chunk.js.map": "/hepta-site/static/js/2.376bff23.chunk.js.map",
+    "index.html": "/hepta-site/index.html",
+    "precache-manifest.4acb8f206921557f4a435fbe86a3454e.js": "/hepta-site/precache-manifest.4acb8f206921557f4a435fbe86a3454e.js",
+    "service-worker.js": "/hepta-site/service-worker.js",
+    "static/css/main.aa77da42.chunk.css.map": "/hepta-site/static/css/main.aa77da42.chunk.css.map",
+    "static/media/main.css": "/hepta-site/static/media/zestt_back.51cdd275.jpg",
+    "static/media/bbm.png": "/hepta-site/static/media/bbm.e3dc095b.png",
+    "static/media/branding_main_img.png": "/hepta-site/static/media/branding_main_img.60f08fb1.png",
+    "static/media/branding_ugaoo.png": "/hepta-site/static/media/branding_ugaoo.91742530.png",
+    "static/media/kris.png": "/hepta-site/static/media/kris.ce02b260.png",
+    "static/media/matchbox.png": "/hepta-site/static/media/matchbox.b86c84c2.png",
+    "static/media/services_ui_code.jpg": "/hepta-site/static/media/services_ui_code.f70ac5f5.jpg",
+    "static/media/services_ui_raw.jpg": "/hepta-site/static/media/services_ui_raw.91c07a93.jpg"
+  }
+}
