@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fb9a22d23f3f3362218afa2288ec6524",
+    "revision": "a70678b1f7d11fb7aeea5fcebcc7140b",
     "url": "/hepta-react/index.html"
   },
   {
-    "revision": "1fa16f74750986fde0d4",
+    "revision": "2472e29c0061d46394d2",
     "url": "/hepta-react/static/css/main.dec043d5.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/hepta-react/static/js/2.cffe9dc7.chunk.js"
   },
   {
-    "revision": "1fa16f74750986fde0d4",
-    "url": "/hepta-react/static/js/main.59c7275b.chunk.js"
+    "revision": "2472e29c0061d46394d2",
+    "url": "/hepta-react/static/js/main.98618294.chunk.js"
   },
   {
     "revision": "07f10130180a9c83478c",
